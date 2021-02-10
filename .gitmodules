@@ -1,0 +1,3 @@
+[submodule "lib-1"]
+	path = lib-1
+	url = git@github.com:TacB0sS/lib-1.git
